@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Activity - Volume</string>
+    <string name="tv_length">Length</string>
+    <string name="tv_width">Width</string>
+    <string name="tv_height">Height</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="tv_result">Result</string>
 </resources>
