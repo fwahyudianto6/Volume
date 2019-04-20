@@ -1,2 +1,2 @@
 # Volume
-Volume is the first project in android programming learning (Learn - Activity).
+Volume is the second project in android programming learning (Learn - Activity).
